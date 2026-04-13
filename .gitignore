@@ -7,3 +7,4 @@ dist/
 
 # Local worktrees created by uncover (you don't want to commit these)
 .worktrees/
+demo/
